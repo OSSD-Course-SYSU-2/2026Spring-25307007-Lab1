@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "合成大西瓜游戏"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "合成大西瓜"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "合成大西瓜"
+    }
+  ]
+}
